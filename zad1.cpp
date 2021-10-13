@@ -1,7 +1,14 @@
 #include <iostream>
 using namespace std;
-int main(){
-    for(int i=10; i<100; i=i+2)
-        cout << i << " ";
-    return 0;
+int sum = 0;
+
+int main()
+{
+    for(int i=1;i<101;i++)
+    {
+        sum = sum + i*(i+1);
+
+
+    }
+    cout<<sum;
 }
