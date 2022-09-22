@@ -1,7 +1,7 @@
 ### Informatyka
 
-Emil Krawczyk 1D LO III Wrocław
+Emil Krawczyk 2D LO III Wrocław
 
 dev@emilkrawczyk.pl
 
-© 2021 by Emil Krawczyk. All rights reserved.
+© 2022 by Emil Krawczyk. All rights reserved.
